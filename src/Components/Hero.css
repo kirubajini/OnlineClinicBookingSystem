@@ -1,0 +1,15 @@
+
+
+  .hero{
+    width: 100%;
+    margin-top: 15%;
+  };
+
+  .button {
+    border-radius: 2px;
+
+  };
+  .heroimage {
+    object-fit: cover;
+    height: 400px;
+  }
